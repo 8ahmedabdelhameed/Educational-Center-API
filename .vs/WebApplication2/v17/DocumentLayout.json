@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20100\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\models\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\repos\\subjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repos\\subjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\repos\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repos\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\repos\\gradrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repos\\gradrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\repos\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repos\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/school/True/SqlTable/dbo.students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\dtos\\graddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\graddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\dtos\\studentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\studentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\controllers\\gradcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\gradcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\migrations\\20250412124019_aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20250412124019_aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\migrations\\20250412105844_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20250412105844_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\dtos\\subjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\subjectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/school/True/SqlTable/dbo.teachers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\interface\\igradrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\igradrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\interface\\iclassrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\iclassrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\dtos\\classdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\classdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\interface\\isubjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\isubjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\interface\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|c:\\users\\20100\\source\\repos\\webapplication2\\webapplication2\\dtos\\teacherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79122DE4-2AED-4166-A85A-98062F4BD756}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\teacherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T12:28:25.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grad.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Grad.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Grad.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Grad.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Grad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:26:16.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\StudentDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\StudentDtos.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\StudentDtos.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\StudentDtos.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAzwFUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:35:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GradDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\GradDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\GradDtos.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\GradDtos.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\GradDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:35:34.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Teacher.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:26:16.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GradRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\GradRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repos\\GradRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\GradRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Repos\\GradRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:23:31.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T14:21:34.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:20:49.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Class.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:26:15.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Subject.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:26:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\ClassRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repos\\ClassRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\ClassRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Repos\\ClassRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:22:56.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\SubjectRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repos\\SubjectRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\SubjectRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Repos\\SubjectRepo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:23:48.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Repos\\StudentRepo.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwEkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:23:21.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA3wCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:51:11.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:39:07.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\TeacherRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repos\\TeacherRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Repos\\TeacherRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Repos\\TeacherRepo.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA0wDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:24:03.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:28:12.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250412124019_aaa.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20250412124019_aaa.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250412124019_aaa.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20250412124019_aaa.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250412124019_aaa.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA2wAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:40:19.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250412105844_aa.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20250412105844_aa.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250412105844_aa.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20250412105844_aa.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250412105844_aa.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAA2wFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:58:44.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GradController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\GradController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\GradController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\GradController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\GradController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:42:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:02:51.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGradRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IGradRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\IGradRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IGradRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\IGradRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:10:03.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\SubjectDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\SubjectDtos.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\SubjectDtos.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\SubjectDtos.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA+wBQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:35:34.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IClassRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IClassRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\IClassRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IClassRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\IClassRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:09:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClassDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\ClassDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\ClassDtos.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\ClassDtos.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\ClassDtos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:35:33.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:48:34.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:44:09.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IStudentRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\IStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:10:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:21:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\ITeacherRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\ITeacherRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\ITeacherRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\ITeacherRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:09:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISubjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\ISubjectRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\ISubjectRepo.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\ISubjectRepo.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\ISubjectRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:09:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeacherDtos.cs",
+              "DocumentMoniker": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\TeacherDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\TeacherDtos.cs",
+              "ToolTip": "C:\\Users\\20100\\source\\repos\\WebApplication2\\WebApplication2\\Dtos\\TeacherDtos.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\TeacherDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:35:34.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/school/True/SqlTable/dbo.students.sql",
+              "ToolTip": "dbo.students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T13:07:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.teachers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/school/True/SqlTable/dbo.teachers.sql",
+              "ToolTip": "dbo.teachers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-12T12:44:55.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
